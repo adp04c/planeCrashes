@@ -1,0 +1,3 @@
+This function scrapes all aircraft accidents from aviation-safety.net and returns data in a pandas dataframe.
+
+
